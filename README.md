@@ -1,15 +1,9 @@
-CloudByte Runbook Demo
-Personal educational demo by Srimannarayana Reddi Tadi (CloudByteHub.ai).
+# Disclaimer
 
-Purpose
-This repository demonstrates a synthetic, toy example of how Generative AI could assist in generating runbooks for cloud incident response.
-It is intended only for educational and OpenSource authorship proof purposes.
+This repository is **personal, educational, and open-source work** created by Srimannarayana Reddi Tadi (CloudByteHub.ai).
 
-✅ Synthetic inputs only
-✅ No production infrastructure
-✅ No employer/client content
-✅ Non-commercial license
-Demo
-See demo/runbook_generator_demo.py for a tiny example that turns a synthetic alert JSON into a suggested runbook.
+- No client or employer material is included.  
+- No production infrastructure or confidential information is included.  
+- All code, inputs, and outputs are synthetic and simplified for demonstration.  
 
-python demo/runbook_generator_demo.py
+This repository exists **solely for open-source and contribution evidence**.
