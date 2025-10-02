@@ -1,0 +1,5 @@
+Runbook Steps:
+1. Check logs for payment-api.
+2. Scale up pod replicas by +2.
+3. Monitor CPU usage for 15 mins.
+4. If stable, continue monitoring; else escalate.

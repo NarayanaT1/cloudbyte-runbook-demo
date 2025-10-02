@@ -1,0 +1,5 @@
+{
+  "service": "payment-api",
+  "issue": "High CPU usage detected",
+  "severity": "critical"
+}

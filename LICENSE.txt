@@ -1,0 +1,12 @@
+
+---
+
+## 2. `LICENSE.txt`
+
+```text
+Copyright (c) 2025 Srimannarayana Reddi Tadi (CloudByteHub.ai). All Rights Reserved.
+
+Permission is granted to view, fork, and use this repository for personal, educational, and research purposes only.  
+Commercial use, resale, sublicensing, or integration into a commercial product/service is prohibited without explicit written permission from the copyright holder.
+
+This project is provided "AS IS", without warranty of any kind.
